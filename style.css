@@ -45,7 +45,6 @@ header nav h2{
 main{
     background-color: var(--body-color);
     color: var(--font-color);   
-    height: 100vh;
 }
 
 .art-abilities .col-md-2 span{
